@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Beks98
-- 👀 I’m interested in Java backend and AngularJs frontend development.
-- 🌱 I’m currently learning Java Spring Boot and JQuery..
+- 👀 I’m a frontend developer with JS and Vue/Nuxt as my favorites.
+- 🌱 I’m currently learning Node JS for reaching my next goals of development growth.
 - 💞️ I’m looking to collaborate on any web development project.
 - 📫 How to reach me Viber: +387603116809
 
